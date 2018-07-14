@@ -26,8 +26,8 @@ IMP_F32 fParam    = 22;
 IMP_F32 deviation = 2;
 IMP_F32 lamda     = 1;
 IMP_F32 theta     = 50;
-string  pathInput = "C:\\Users\\jwy\\Desktop\\3.png";
-string  pathClean = "C:\\Users\\jwy\\Desktop\\2.png";
+string  pathInput = "G:\\opencv_image\\lena_256_20.png";
+string  pathClean = "G:\\opencv_image\\lena_256_0.png";
 
 
 /**************主函数开始*****************/
